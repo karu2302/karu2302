@@ -1,13 +1,15 @@
 <div align="center">
 
 # 👋 Hello There! I'm Kartheek Bhimavarapu
-### **Computer Science Graduate | Data Science, Machine Learning & Full-Stack Developer**
+### **Computer Science Graduate | Data Science & Machine Learning Engineer**
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasvR417xK/giphy.gif" width="30px" /> **Welcome to my digital space!** <img src="https://media.giphy.com/media/hvRJCLFzcasvR417xK/giphy.gif" width="30px" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasvR417xK/giphy.gif" width="30px" /> **Turning complex data into intelligent solutions!** <img src="https://media.giphy.com/media/hvRJCLFzcasvR417xK/giphy.gif" width="30px" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/karu2302)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github)](https://github.com/karu2302)
-[![Email](https://img.shields.io/badge/Email-karuonline247@gmail.com-red?style=flat-square&logo=gmail)](mailto:karuonline247@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karu2302&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/karu2302"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:karuonline247@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" /></a>
+</p>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/wave.gif" width="40px" />
 
@@ -16,27 +18,28 @@
 ---
 
 ### 🚀 About Me
-<img src="https://media.giphy.com/media/12GoSUIX8yNois/giphy.gif" align="right" width="220px" />
+<img src="https://media.giphy.com/media/3og0IPxX0076LCHNVC/giphy.gif" align="right" width="240px" />
 
-I am a Computer Science graduate (B.Tech, CGPA 8.3/10) with hands-on expertise spanning Data Science, Machine Learning, and Software Development. I specialize in building end-to-end data pipelines, robust ELT workflows, predictive models, and web applications, with a strong track record of deploying applications live. 
+I am a Computer Science graduate (B.Tech, CGPA 8.3/10) with hands-on expertise spanning **Data Science, Machine Learning, and Data Engineering**. I specialize in building end-to-end data pipelines, robust ELT workflows, predictive models, and interactive web tools, with a strong track record of deploying applications live. 
 
 - 🔭 **Current Role:** Working as a **Data Analyst / Technical Intern** at **DEME Group** (Starting September 2026).
 - 📚 **Publications:** Author of peer-reviewed IEEE research publications in IoT analytics and sustainable energy infrastructure.
-- 💡 **Passion:** Translating complex datasets and data pipelines into actionable business insights and interactive web tools.
+- 💡 **Superpower:** Making data talk and machines think! ⚡
 
 ---
 
-### 🛠️ Interactive Technical Arsenal
+### 🛠️ Interactive Technology Stack
+*Where code meets intelligence and data engineering!*
 
 <div align="center">
 
-| Category | Technologies & Visual Badges |
+| Category | Technologies & Animated Badges |
 | :--- | :--- |
-| **Programming** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" alt="Python" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="35" alt="SQL" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="35" alt="HTML5" /> |
-| **Data & BI** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="35" alt="Pandas" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="35" alt="NumPy" /> &nbsp; <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" alt="Power BI" /> &nbsp; <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30" alt="Tableau" /> &nbsp; <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" alt="Excel" /> |
-| **Machine Learning & AI** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35" alt="Scikit-Learn" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="35" alt="TensorFlow" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="35" alt="PyTorch" /> &nbsp; <img src="https://img.shields.io/badge/Optuna-FF6F00?style=for-the-badge&logo=optuna&logoColor=white" height="30" alt="Optuna" /> |
-| **Frameworks & Web** | <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="35" alt="Streamlit" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="35" alt="React" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="35" alt="Flask" /> |
-| **Cloud & Tools** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" alt="AWS" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="35" alt="Git" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="35" alt="GitHub" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="35" alt="VS Code" /> |
+| **Programming & DB** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Laptop.png" width="25" /> **Python:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" /> &nbsp;&nbsp;|&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Card%20File%20Box.png" width="25" /> **SQL / MySQL:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" /> &nbsp;&nbsp;|&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Memo.png" width="25" /> **JavaScript:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" /> |
+| **Data & BI Tools** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Chart%20Increasing.png" width="25" /> **Pandas & NumPy:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" /> &nbsp;&nbsp;|&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Bar%20Chart.png" width="25" /> **Power BI:** <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="30" /> &nbsp;&nbsp;|&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Framed%20Picture.png" width="25" /> **Tableau:** <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="30" /> |
+| **Machine Learning & AI** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Smilies/Robot.png" width="25" /> **Scikit-Learn:** <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" /> &nbsp;&nbsp;|&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Brain.png" width="25" /> **TensorFlow & PyTorch:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30" /> |
+| **Web & Frameworks** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Rocket.png" width="25" /> **Streamlit:** <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="30" /> &nbsp;&nbsp;|&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Satellite.png" width="25" /> **Gradio / Flask:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="30" /> |
+| **Cloud & DevOps** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Travel%20and%20places/Glowing%20Star.png" width="25" /> **AWS:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" /> &nbsp;&nbsp;|&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Wrench.png" width="25" /> **Git & GitHub:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" /> |
 
 </div>
 
@@ -44,7 +47,7 @@ I am a Computer Science graduate (B.Tech, CGPA 8.3/10) with hands-on expertise s
 
 ### 💼 Professional Experience & Current Roles
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" align="right" width="200px" />
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" align="right" width="180px" />
 
 - 🌍 **DEME Group** — *Data Analyst / Technical Intern* (September 2026 – Present)
   * Engaging in professional data-driven workflows, cross-functional collaboration, and analytical problem-solving.
@@ -53,22 +56,24 @@ I am a Computer Science graduate (B.Tech, CGPA 8.3/10) with hands-on expertise s
 
 ---
 
-### 🚀 Featured Projects & Deployed Apps
-*Check out my GitHub repositories for the full source code and live applications:*
+### ⚡ Featured Projects & Deployed Apps
+*Click on any project to explore the code, pipeline architectures, and live applications:*
 
-* 🔄 **[Olist E-Commerce ELT Pipeline](https://github.com/karu2302/olist-ecommerce-elt-pipeline):** Built an end-to-end Extract, Load, Transform (ELT) pipeline handling large-scale Brazilian e-commerce datasets to optimize data warehousing and analytics.
-* 🏙️ **[NYC 311 Advanced ELT Pipeline](https://github.com/karu2302/nyc311-advanced-elt-pipeline):** Developed an advanced data engineering pipeline ingesting, cleaning, and transforming NYC municipal service request data for deep operational insights.
-* 🏏 **[Cricket Analytics & Insights App](https://github.com/karu2302/cricket):** An interactive Streamlit web app comparing player stats across formats (Test, ODI, T20, IPL) using dynamic visualizations.
-* 🩺 **[Diabetes Prediction System](https://github.com/karu2302/Diabetes_prediction):** Supervised machine learning classification models (Random Forest, Logistic Regression, KNN) evaluating clinical health indicators with optimized preprocessing pipelines.
-* ✍️ **[Digital Handwriting Recognition](https://github.com/karu2302/Digital_recognization):** A deep learning computer vision model recognizing digital characters via an interactive drawing canvas.
-* 🏍️ **[Used Bike Market Analysis (Bikewala)](https://github.com/karu2302/dta_analasis):** Extracted and analyzed 700+ data points across Indian cities, performing univariate/bivariate analysis to uncover pricing trends and resale value drivers.
-* 🤖 **[AI Mentor & Chatbot Workspaces](https://github.com/karu2302/Ai_mentor):** Conversational AI spaces built to provide real-time context-aware guidance and technical mentorship.
+| Project Icon & Name | What It Does & Technologies Used |
+| :--- | :--- |
+| 🔄 **[Olist E-Commerce ELT Pipeline](https://github.com/karu2302/olist-ecommerce-elt-pipeline)**<br><img src="https://media.giphy.com/media/13GIws15CsbjP2/giphy.gif" width="120px"/> | • **Data Engineering:** Built an end-to-end Extract, Load, Transform (ELT) pipeline handling large-scale Brazilian e-commerce data.<br>• **Tech:** Python, SQL, Pandas, Data Warehousing. |
+| 🏙️ **[NYC 311 Advanced ELT Pipeline](https://github.com/karu2302/nyc311-advanced-elt-pipeline)**<br><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120px"/> | • **Big Data Processing:** Developed an advanced municipal service request pipeline ingesting, cleaning, and transforming NYC data.<br>• **Tech:** Python, SQL, ETL/ELT Architectures. |
+| 🏏 **[Cricket Analytics & Insights App](https://github.com/karu2302/cricket)**<br><img src="https://media.giphy.com/media/l0HlRnAWXxn0MhOBK/giphy.gif" width="120px"/> | • **Sports Analytics:** Interactive Streamlit web app comparing player stats across formats (Test, ODI, T20, IPL) with dynamic charts.<br>• **Tech:** Python, Streamlit, Matplotlib, Plotly. |
+| 🩺 **[Diabetes Prediction System](https://github.com/karu2302/Diabetes_prediction)**<br><img src="https://media.giphy.com/media/9jfvC33pL8Y18rO416/giphy.gif" width="120px"/> | • **Machine Learning Model:** Supervised classification models (Random Forest, Logistic Regression, KNN) for medical risk assessment.<br>• **Tech:** Scikit-Learn, Pandas, Streamlit. |
+| ✍️ **[Digital Handwriting Recognition](https://github.com/karu2302/Digital_recognization)**<br><img src="https://media.giphy.com/media/3oKHzH724tA0Zt9N4Y/giphy.gif" width="120px"/> | • **Computer Vision:** Deep learning neural network model recognizing characters live via an interactive user drawing canvas.<br>• **Tech:** TensorFlow/PyTorch, Computer Vision. |
+| 🏍️ **[Used Bike Market Analysis (Bikewala)](https://github.com/karu2302/dta_analasis)**<br><img src="https://media.giphy.com/media/26ufevknuVuyKjQ52/giphy.gif" width="120px"/> | • **Exploratory Data Analysis:** Extracted & analyzed 700+ data points across Indian cities to uncover resale value drivers.<br>• **Tech:** Pandas, Seaborn, Statistical EDA. |
+| 🤖 **[AI Mentor & Chatbot Workspaces](https://github.com/karu2302/Ai_mentor)**<br><img src="https://media.giphy.com/media/l2Je2M4Nfrit0L7sQ/giphy.gif" width="120px"/> | • **Generative AI:** Conversational AI space built to provide real-time context-aware guidance, prompts, and technical mentorship.<br>• **Tech:** Python, LLM APIs, Streamlit. |
 
 ---
 
 ### 🏆 Certifications & Research
 
-<img src="https://media.giphy.com/media/l0HlRnAWXxn0MhOBK/giphy.gif" align="right" width="180px" />
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" align="right" width="180px" />
 
 - **Certifications:** Machine Learning & Deep Learning (Innomatics - *Excellence*), Advanced Data Science (Nasscom FutureSkills Prime), AWS Cloud Foundations & Data Analytics.
 - **IEEE Publications:** 
@@ -84,12 +89,12 @@ I am a Computer Science graduate (B.Tech, CGPA 8.3/10) with hands-on expertise s
 [![trophy](https://github-profile-trophy.vercel.app/?username=karu2302&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=karu2302&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Karheek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karu2302&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kartheek's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karu2302&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ### 🤝 Let's Connect & Collaborate!
-*Open to exciting opportunities in Data Science, Machine Learning, Data Engineering, and Software Engineering.*
+*Open to exciting opportunities in Data Science, Machine Learning, and Data Engineering.*
 
 <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="100px" />
 
