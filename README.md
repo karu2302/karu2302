@@ -61,7 +61,7 @@ I am a Computer Science graduate (B.Tech, CGPA 8.3/10) with hands-on expertise s
 ---
 
 <div align="center">
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=karu2302)](https://github.com/ryo-ma/github-profile-trophy)
 ### 🤝 Let's Connect & Collaborate!
 *Open to exciting opportunities in Data Science, Machine Learning, and Software Engineering.*
 
