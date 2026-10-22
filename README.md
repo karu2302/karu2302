@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hello There! I'm Kartheek Bhimavarapu
-### **Computer Science Graduate | Data Science, Machine Learning & Data Engineer**
+### **Computer Science Graduate | Data Science, Machine Learning & Full-Stack Developer**
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasvR417xK/giphy.gif" width="30px" /> **Welcome to my digital space!** <img src="https://media.giphy.com/media/hvRJCLFzcasvR417xK/giphy.gif" width="30px" />
 
