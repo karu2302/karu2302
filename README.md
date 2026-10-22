@@ -11,14 +11,14 @@
   <a href="mailto:karuonline247@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/wave.gif" width="40px" />
+<img src="https://github.com/Minituff/Minituff/raw/main/assets/hand-wave.gif" width="50px" alt="Waving Hand" />
 
 </div>
 
 ---
 
 ### 🚀 About Me
-<img src="https://media.giphy.com/media/3og0IPxX0076LCHNVC/giphy.gif" align="right" width="240px" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d88506faa90.gif" align="right" width="280px" />
 
 I am a Computer Science graduate (B.Tech, CGPA 8.3/10) with hands-on expertise spanning **Data Science, Machine Learning, and Data Engineering**. I specialize in building end-to-end data pipelines, robust ELT workflows, predictive models, and interactive web tools, with a strong track record of deploying applications live. 
 
@@ -35,11 +35,11 @@ I am a Computer Science graduate (B.Tech, CGPA 8.3/10) with hands-on expertise s
 
 | Category | Technologies & Animated Badges |
 | :--- | :--- |
-| **Programming & DB** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Laptop.png" width="25" /> **Python:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" /> &nbsp;&nbsp;|&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Card%20File%20Box.png" width="25" /> **SQL / MySQL:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" /> &nbsp;&nbsp;|&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Memo.png" width="25" /> **JavaScript:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" /> |
-| **Data & BI Tools** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Chart%20Increasing.png" width="25" /> **Pandas & NumPy:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" /> &nbsp;&nbsp;|&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Bar%20Chart.png" width="25" /> **Power BI:** <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="30" /> &nbsp;&nbsp;|&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Framed%20Picture.png" width="25" /> **Tableau:** <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="30" /> |
-| **Machine Learning & AI** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Smilies/Robot.png" width="25" /> **Scikit-Learn:** <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30" /> &nbsp;&nbsp;|&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Brain.png" width="25" /> **TensorFlow & PyTorch:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30" /> |
-| **Web & Frameworks** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Rocket.png" width="25" /> **Streamlit:** <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="30" /> &nbsp;&nbsp;|&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Satellite.png" width="25" /> **Gradio / Flask:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="30" /> |
-| **Cloud & DevOps** | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Travel%20and%20places/Glowing%20Star.png" width="25" /> **AWS:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" /> &nbsp;&nbsp;|&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Icons/Objects/Wrench.png" width="25" /> **Git & GitHub:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" /> |
+| **Programming & DB** | 💻 **Python:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" /> &nbsp;&nbsp;|&nbsp;&nbsp; 🗄️ **SQL / MySQL:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" /> &nbsp;&nbsp;|&nbsp;&nbsp; 📜 **JavaScript:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" /> |
+| **Data & BI Tools** | 📈 **Pandas & NumPy:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="28" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="28" /> &nbsp;&nbsp;|&nbsp;&nbsp; 📊 **Power BI:** <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="28" /> &nbsp;&nbsp;|&nbsp;&nbsp; 📉 **Tableau:** <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="28" /> |
+| **Machine Learning & AI** | 🤖 **Scikit-Learn:** <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="28" /> &nbsp;&nbsp;|&nbsp;&nbsp; 🧠 **TensorFlow & PyTorch:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="28" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="28" /> |
+| **Web & Frameworks** | 🚀 **Streamlit:** <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="28" /> &nbsp;&nbsp;|&nbsp;&nbsp; 🧪 **Flask:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="28" /> |
+| **Cloud & DevOps** | ☁️ **AWS:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="28" /> &nbsp;&nbsp;|&nbsp;&nbsp; 🐙 **Git & GitHub:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28" /> |
 
 </div>
 
@@ -47,7 +47,7 @@ I am a Computer Science graduate (B.Tech, CGPA 8.3/10) with hands-on expertise s
 
 ### 💼 Professional Experience & Current Roles
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" align="right" width="180px" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b16-b193-c466c4c96d3f.gif" align="right" width="200px" />
 
 - 🌍 **DEME Group** — *Data Analyst / Technical Intern* (September 2026 – Present)
   * Engaging in professional data-driven workflows, cross-functional collaboration, and analytical problem-solving.
@@ -61,19 +61,19 @@ I am a Computer Science graduate (B.Tech, CGPA 8.3/10) with hands-on expertise s
 
 | Project Icon & Name | What It Does & Technologies Used |
 | :--- | :--- |
-| 🔄 **[Olist E-Commerce ELT Pipeline](https://github.com/karu2302/olist-ecommerce-elt-pipeline)**<br><img src="https://media.giphy.com/media/13GIws15CsbjP2/giphy.gif" width="120px"/> | • **Data Engineering:** Built an end-to-end Extract, Load, Transform (ELT) pipeline handling large-scale Brazilian e-commerce data.<br>• **Tech:** Python, SQL, Pandas, Data Warehousing. |
-| 🏙️ **[NYC 311 Advanced ELT Pipeline](https://github.com/karu2302/nyc311-advanced-elt-pipeline)**<br><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120px"/> | • **Big Data Processing:** Developed an advanced municipal service request pipeline ingesting, cleaning, and transforming NYC data.<br>• **Tech:** Python, SQL, ETL/ELT Architectures. |
-| 🏏 **[Cricket Analytics & Insights App](https://github.com/karu2302/cricket)**<br><img src="https://media.giphy.com/media/l0HlRnAWXxn0MhOBK/giphy.gif" width="120px"/> | • **Sports Analytics:** Interactive Streamlit web app comparing player stats across formats (Test, ODI, T20, IPL) with dynamic charts.<br>• **Tech:** Python, Streamlit, Matplotlib, Plotly. |
-| 🩺 **[Diabetes Prediction System](https://github.com/karu2302/Diabetes_prediction)**<br><img src="https://media.giphy.com/media/9jfvC33pL8Y18rO416/giphy.gif" width="120px"/> | • **Machine Learning Model:** Supervised classification models (Random Forest, Logistic Regression, KNN) for medical risk assessment.<br>• **Tech:** Scikit-Learn, Pandas, Streamlit. |
-| ✍️ **[Digital Handwriting Recognition](https://github.com/karu2302/Digital_recognization)**<br><img src="https://media.giphy.com/media/3oKHzH724tA0Zt9N4Y/giphy.gif" width="120px"/> | • **Computer Vision:** Deep learning neural network model recognizing characters live via an interactive user drawing canvas.<br>• **Tech:** TensorFlow/PyTorch, Computer Vision. |
-| 🏍️ **[Used Bike Market Analysis (Bikewala)](https://github.com/karu2302/dta_analasis)**<br><img src="https://media.giphy.com/media/26ufevknuVuyKjQ52/giphy.gif" width="120px"/> | • **Exploratory Data Analysis:** Extracted & analyzed 700+ data points across Indian cities to uncover resale value drivers.<br>• **Tech:** Pandas, Seaborn, Statistical EDA. |
-| 🤖 **[AI Mentor & Chatbot Workspaces](https://github.com/karu2302/Ai_mentor)**<br><img src="https://media.giphy.com/media/l2Je2M4Nfrit0L7sQ/giphy.gif" width="120px"/> | • **Generative AI:** Conversational AI space built to provide real-time context-aware guidance, prompts, and technical mentorship.<br>• **Tech:** Python, LLM APIs, Streamlit. |
+| 🔄 **[Olist E-Commerce ELT Pipeline](https://github.com/karu2302/olist-ecommerce-elt-pipeline)**<br><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d88506faa90.gif" width="100px"/> | • **Data Engineering:** Built an end-to-end Extract, Load, Transform (ELT) pipeline handling large-scale Brazilian e-commerce data.<br>• **Tech:** Python, SQL, Pandas, Data Warehousing. |
+| 🏙️ **[NYC 311 Advanced ELT Pipeline](https://github.com/karu2302/nyc311-advanced-elt-pipeline)**<br><img src="https://user-images.githubusercontent.com/74038190/212284087-b3a28623-f590-4ee8-b76c-8302e4d46c87.gif" width="100px"/> | • **Big Data Processing:** Developed an advanced municipal service request pipeline ingesting, cleaning, and transforming NYC data.<br>• **Tech:** Python, SQL, ETL/ELT Architectures. |
+| 🏏 **[Cricket Analytics & Insights App](https://github.com/karu2302/cricket)**<br><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d88506faa90.gif" width="100px"/> | • **Sports Analytics:** Interactive Streamlit web app comparing player stats across formats (Test, ODI, T20, IPL) with dynamic charts.<br>• **Tech:** Python, Streamlit, Matplotlib, Plotly. |
+| 🩺 **[Diabetes Prediction System](https://github.com/karu2302/Diabetes_prediction)**<br><img src="https://user-images.githubusercontent.com/74038190/212284087-b3a28623-f590-4ee8-b76c-8302e4d46c87.gif" width="100px"/> | • **Machine Learning Model:** Supervised classification models (Random Forest, Logistic Regression, KNN) for medical risk assessment.<br>• **Tech:** Scikit-Learn, Pandas, Streamlit. |
+| ✍️ **[Digital Handwriting Recognition](https://github.com/karu2302/Digital_recognization)**<br><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d88506faa90.gif" width="100px"/> | • **Computer Vision:** Deep learning neural network model recognizing characters live via an interactive user drawing canvas.<br>• **Tech:** TensorFlow/PyTorch, Computer Vision. |
+| 🏍️ **[Used Bike Market Analysis (Bikewala)](https://github.com/karu2302/dta_analasis)**<br><img src="https://user-images.githubusercontent.com/74038190/212284087-b3a28623-f590-4ee8-b76c-8302e4d46c87.gif" width="100px"/> | • **Exploratory Data Analysis:** Extracted & analyzed 700+ data points across Indian cities to uncover resale value drivers.<br>• **Tech:** Pandas, Seaborn, Statistical EDA. |
+| 🤖 **[AI Mentor & Chatbot Workspaces](https://github.com/karu2302/Ai_mentor)**<br><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d88506faa90.gif" width="100px"/> | • **Generative AI:** Conversational AI space built to provide real-time context-aware guidance, prompts, and technical mentorship.<br>• **Tech:** Python, LLM APIs, Streamlit. |
 
 ---
 
 ### 🏆 Certifications & Research
 
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" align="right" width="180px" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b16-b193-c466c4c96d3f.gif" align="right" width="180px" />
 
 - **Certifications:** Machine Learning & Deep Learning (Innomatics - *Excellence*), Advanced Data Science (Nasscom FutureSkills Prime), AWS Cloud Foundations & Data Analytics.
 - **IEEE Publications:** 
