@@ -24,10 +24,10 @@ I am a Computer Science graduate (**B.Tech, CGPA 8.3/10**) with hands-on experti
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Databases** | `Python`, `SQL (MySQL)`, `JavaScript`, `HTML5` |
+| **Languages & Databases** | `Python`, `SQL (MySQL)`, `JavaScript` |
 | **Data Engineering & BI** | `Pandas`, `NumPy`, `Power BI`, `Tableau`, `Excel (Power Query / VBA)` |
 | **Machine Learning & AI** | `Scikit-Learn`, `TensorFlow`, `PyTorch`, `Optuna`, `NLP`, `Supervised/Unsupervised Learning` |
-| **Web Frameworks & Tools** | `Streamlit`, `Flask`, `Git`, `GitHub`, `AWS Cloud Foundations & Data Analytics`, `Postman` |
+| **Web Frameworks & Tools** | `Streamlit`, `Flask`, `Git`, `GitHub`, `AWS Cloud Foundations & Data Analytics`, |
 
 ---
 
@@ -35,7 +35,7 @@ I am a Computer Science graduate (**B.Tech, CGPA 8.3/10**) with hands-on experti
 
 - 🌍 **DEME Group** — *Data Analyst / Technical Intern* (September 2026 – Present)
   * Engaging in professional data-driven workflows, cross-functional collaboration, and analytical problem-solving.
-- 📊 **Innomatics Research Labs** — *Data Analytics Intern* (June 2025 – August 2025)
+- 📊 **Innomatics Research Labs** — *Data Analytics Intern* (June 2024 – August 2025)
   * Completed a structured data analytics internship, executing rigorous exploratory data analysis, reporting findings, and collaborating with cross-functional teams in a deadline-driven environment.
 
 ---
